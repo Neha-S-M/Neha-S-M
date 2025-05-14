@@ -2,7 +2,7 @@
 
 
 
-I'm Neha a Software engineer based in **Bangalore**, passionate about merging **technical expertise** with **design** to build scalable, efficient, and beautiful applications.
+I'm [Neha](https://www.linkedin.com/in/neha-m-498715211/) a Software engineer based in **Bangalore**, passionate about merging **technical expertise** with **design** to build scalable, efficient, and beautiful applications.
 
 💻 Skilled in:
 - Full Stack Web Development  
