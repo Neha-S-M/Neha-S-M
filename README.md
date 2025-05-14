@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Neha-S-M/Neha-S-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Neha a Software engineer based in **Bangalore**, passionate about merging **technical expertise** with **design** to build scalable, efficient, and beautiful applications.
+
+💻 Skilled in:
+- Full Stack Web Development  
+- Python  
+- Data Structures & Algorithms  
+
+🚀 I strive to create software that delivers seamless and engaging user experiences.
+
+📚 Curious and avid reader, I love tackling challenges with creativity and fresh perspectives.
+
